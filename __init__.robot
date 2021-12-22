@@ -1,0 +1,2 @@
+*** Settings ***
+Suite Setup
