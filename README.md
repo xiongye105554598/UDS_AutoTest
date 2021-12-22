@@ -12,11 +12,11 @@ pip3 install robotframework-ride==1.7.4.2
 
 pip3 install xlrd==1.2.0
 
+pip3 install udsoncan==1.14
+
 pip3 install python-can==3.3.4
 
 pip3 install can-isotp==1.7
-
-pip3 install udsoncan==1.14
 
 #硬件环境
 上位机：PCAN-USB
